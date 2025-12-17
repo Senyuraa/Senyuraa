@@ -16,8 +16,6 @@ Currently, I am balancing academics with hands-on development, using projects as
 - Exploring **UI animations, transitions, and motion-based layouts**
 - Gradually building a strong base for long-term software engineering roles
 
----
-
 ## Skills & Technologies
 
 ### Frontend Development
